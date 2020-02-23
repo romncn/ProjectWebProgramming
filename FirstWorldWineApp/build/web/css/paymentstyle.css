@@ -1,0 +1,80 @@
+/*body coding to font color all page*/
+/*margin: 25px 50px 75px 100px; (top,right,bottom,left)*/
+.form-payment {
+	font-size: 20px;
+margin: 0px 450px 0px 450px;
+}
+.form-paymentedit input[type=text]{
+	 width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	}
+.form-paymentedit textarea{
+	 width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-paymentedit select{
+	 width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	}
+.step-payment{
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
+}
+.step-paymentoff{
+	margin: 0px 75px 0px 75px;
+	color:#02111B;
+}
+.step-paymenton{
+	margin: 0px 75px 0px 75px;
+	padding: 7px;
+	color:#F2F4F3;
+	background-color: #02111B;
+}
+/*.btn{
+	
+	
+}*/
+.editbtn{
+	color: #02111B;
+	float: right;
+	margin-right: 450px;
+}
+.editbtncenter{
+ color: #02111B;
+margin: 0px 450px 0px  450px;
+position: absolute;
+}
+
+/*payment success*/
+
+.container .succes h1{
+font-size: 50px;
+font-weight: 400;
+text-align: center;
+border-bottom: 0.5px dotted #02111B;
+/*border-width: 2px;*/
+}
+.container .succesdetail h3{
+text-align: center;
+}
+
+.imagepayment{
+   width: 40px;
+height: auto;
+}

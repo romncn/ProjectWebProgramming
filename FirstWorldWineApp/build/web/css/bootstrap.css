@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 10, 2018, 12:14:36 AM
+    Author     : ROM
+*/
+.content-header{
+  margin-top: 50px;
+  width: 100%;
+ 
+
+}
+.content-header h1{
+  text-align: center;
+  font-weight: 540;
+  font-size: 50px;
+  color: #02111b;
+}
+.content-mydetail p{
+  padding-bottom: 20px;
+}
+.content-mydetail a{
+  color: #02111b;
+  text-decoration: none;
+}
+.submit-button{
+  margin-top: 70px;
+  margin-left: 38.5%;
+}
+.signin-button{
+  margin-right: 43%;
+}
+.content-mydetail{
+   margin-left: 300px;
+   text-align: left;
+   font-size: 30px;
+   margin-top: 73px;
+   color: #02111b; 
+}
+.content-signup{
+  width: 90%;
+   margin-left: 10%;
+   text-align: left;
+   font-size: 30px;
+   margin-top: 30px;
+   color: #02111b;
+}
+.content-editpass{
+   width: 90%;
+   margin-left: 10%;
+   text-align: left;
+   font-size: 30px;
+   margin-top: 30px;
+   color: #02111b;
+}
+.content-signup input[type=text],.content-signup input[type=password],.content-signup input[type=email] {
+    width: 90%;
+    padding: 3px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.content-editpass input[type=text],.content-editpass input[type=password],.content-editpass input[type=email] {
+    width: 90%;
+    padding: 3px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.signmodal-body input[type=text],.signmodal-body input[type=password] {
+  width: 88%;
+    padding: 5px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.before-container{
+    width: 100%;
+    margin: 15px;
+}
